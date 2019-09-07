@@ -6,7 +6,7 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: [repository-slug]
+    -   TRAVIS_REPO_SLUG: repository-slug
     -   GIT_BRANCH: master
     matrix:
     - PYTHON_VERSION="3.7.3"
