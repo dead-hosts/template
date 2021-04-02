@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/template/template/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
     "hash": "bba8292cc455595f768816333c6eb3099d9c712885159cc004a9f73f",
     "line_number": 2,
     "output_dir": "/home/runner/work/template/template/output/origin.list",
     "previous_hash": "bba8292cc455595f768816333c6eb3099d9c712885159cc004a9f73f",
-    "rel_source": "origin.list",
-    "session_id": "3a82642042bc2758e98af942",
-    "source": "/home/runner/work/template/template/origin.list",
-    "subject": "/home/runner/work/template/template/origin.list",
+    "session_id": "2d9dfc6c65ce56398300bff8",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
