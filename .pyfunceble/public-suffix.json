@@ -6240,6 +6240,7 @@
         "mr.no",
         "muosat.no",
         "muosát.no",
+        "mup.gov.pl",
         "museum.no",
         "málatvuopmi.no",
         "mátta-várjjat.no",
@@ -7475,7 +7476,6 @@
         "org.ru",
         "pp.ru",
         "pyatigorsk.ru",
-        "ra-ru.ru",
         "ras.ru",
         "spb.ru",
         "spectrum.myjino.ru",
@@ -7483,8 +7483,7 @@
         "vladikavkaz.ru",
         "vladimir.ru",
         "vps.mcdir.ru",
-        "vps.myjino.ru",
-        "zsew.ru"
+        "vps.myjino.ru"
     ],
     "run": [
         "code.run",
