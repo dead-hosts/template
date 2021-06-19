@@ -4908,6 +4908,7 @@
         "org.mn"
     ],
     "mo": [
+        "com.mo",
         "edu.mo",
         "gov.mo",
         "net.mo",
@@ -5075,7 +5076,6 @@
         "coloradoplateau.museum",
         "columbia.museum",
         "columbus.museum",
-        "com.mo",
         "communication.museum",
         "communications.museum",
         "community.museum",
