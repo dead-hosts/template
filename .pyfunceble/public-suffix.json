@@ -1572,7 +1572,6 @@
         "platter-app.dev",
         "shiftcrypto.dev",
         "stg.dev",
-        "stgstage.dev",
         "vercel.dev",
         "webhare.dev",
         "workers.dev"
@@ -8476,6 +8475,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "localzone.xyz",
+        "stgstage.dev",
         "telebit.xyz",
         "zapto.xyz"
     ],
