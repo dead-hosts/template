@@ -150,7 +150,8 @@
         "neko.am",
         "net.am",
         "nyaa.am",
-        "org.am"
+        "org.am",
+        "radio.am"
     ],
     "ao": [
         "co.ao",
@@ -1056,7 +1057,6 @@
         "familyds.com",
         "fastly-terrarium.com",
         "fastvps-server.com",
-        "fbxos.fr",
         "fentiger.mythic-beasts.com",
         "firebaseapp.com",
         "firewall-gateway.com",
@@ -1796,7 +1796,6 @@
         "pharmacien.fr",
         "port.fr",
         "prd.fr",
-        "radio.am",
         "tm.fr",
         "veterinaire.fr",
         "ynh.fr"
