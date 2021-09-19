@@ -590,7 +590,6 @@
         "morena.br",
         "mp.br",
         "ms.gov.br",
-        "ms.leg.br",
         "mt.gov.br",
         "mt.leg.br",
         "mus.br",
@@ -1065,6 +1064,7 @@
         "eu.meteorapp.com",
         "eu.pythonanywhere.com",
         "familyds.com",
+        "fastly-terrarium.com",
         "fastvps-server.com",
         "fentiger.mythic-beasts.com",
         "firebaseapp.com",
@@ -1831,6 +1831,7 @@
         "cya.gg",
         "daemon.panel.gg",
         "kaas.gg",
+        "ms.leg.br",
         "net.gg",
         "org.gg",
         "panel.gg"
@@ -6794,7 +6795,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "fastly-terrarium.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
