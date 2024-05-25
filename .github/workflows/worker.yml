@@ -57,4 +57,4 @@ jobs:
 
       - name: Run Launcher
         run: |
-          dead-hosts-launcher -d
+          dead-hosts-launcher
