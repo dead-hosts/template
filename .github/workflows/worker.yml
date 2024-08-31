@@ -44,7 +44,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --pre dead-hosts-launcher~=4.3.0
+          pip install --pre dead-hosts-launcher~=2.3.0
 
       - name: Get PyFunceble version
         run: |
