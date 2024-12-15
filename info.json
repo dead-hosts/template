@@ -1,7 +1,7 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
-    "days_until_next_test": 2,
+    "days_until_next_test": 2.0,
     "finish_datetime": "2024-11-30T15:49:50.386949",
     "finish_timestamp": 1732981790.386949,
     "last_download_datetime": "2024-11-30T15:49:50.386949",
@@ -14,6 +14,7 @@
     "name": "template",
     "own_management": false,
     "ping": [],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "template",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
