@@ -27,7 +27,7 @@ jobs:
       fail-fast: false
       matrix:
         python_version:
-          - "3.11"
+          - "3.12"
         os:
           - ubuntu-latest
 
@@ -44,7 +44,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install dead-hosts-launcher~=2.3.0
+          pip install dead-hosts-launcher
 
       - name: Get PyFunceble version
         run: |
